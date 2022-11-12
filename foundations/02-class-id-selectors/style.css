@@ -1,0 +1,20 @@
+p {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Broj_2 {
+    color: blue;
+    font-size: 36px;
+
+}
+
+#Broj_4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Broj_3 {
+    font-size: 24px;
+}
